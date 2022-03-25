@@ -11,9 +11,9 @@
 
 namespace Overtrue\LaravelUEditor\Events;
 
-use Illuminate\Broadcasting\InteractsWithSockets;
-use Illuminate\Foundation\Events\Dispatchable;
 use Illuminate\Queue\SerializesModels;
+use Illuminate\Foundation\Events\Dispatchable;
+use Illuminate\Broadcasting\InteractsWithSockets;
 use Symfony\Component\HttpFoundation\File\UploadedFile;
 
 /**
