@@ -1,6 +1,8 @@
 # Laravel-UEditor
 
-UEditor integration for Laravel 5.
+UEditor integration for Laravel 9.
+
+> forked from [overtrue/laravel-ueditor](https://github.com/overtrue/laravel-ueditor)
 
 # 使用
 
@@ -9,7 +11,7 @@ UEditor integration for Laravel 5.
 ## 安装
 
 ```shell
-$ composer require "overtrue/laravel-ueditor:~1.0"
+$ composer require "loongws/laravel-ueditor:~1.0"
 ```
 
 ## 配置
